@@ -1,2 +1,2 @@
-# EMA
-English Multigram Analyzer
+# TEMA
+The English Multigram Analyzer
